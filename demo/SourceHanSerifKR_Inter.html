@@ -3,9 +3,44 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+<style>
+@font-face {
+    font-family: 'noto';
+    src: local('SourceHanSerifKR-Regular'), 
+    url('SourceHanSerifKR-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'noto2';
+    src: local('SourceHanSerifKR-Regular2'), 
+    url('SourceHanSerifKR-Regular2.woff') format('woff');
+}
+p {
+    font-size: 34px;
+}
+p.type01 {
+    font-family: 'noto';
+}
+p.type02 {
+    font-family: 'noto2';
+}
+</style>
 </head>
 <body>
-    testlsdd
+<p class="type01">
+    본명조 원본 <br>  
+    웹폰트는 사용 예시 abcdefg ABCDEFG <br>
+    01234567890 <br>
+    010-555-6789<br>
+    웹폰트는 사용 예시
+</p>
+<p class="type02">
+    본명조 + Inter UI(숫자) 결합<br> 
+    웹폰트는 사용 예시 abcdefg ABCDEFG <br>
+    01234567890 <br>
+    010-555-6789<br>
+    웹폰트는 사용 예시
+</p>
 </body>
 </html>
