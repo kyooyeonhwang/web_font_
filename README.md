@@ -4,6 +4,4 @@
 
   * 본명조 : <https://source.typekit.com/source-han-serif/kr/>
   * Inter UI : <https://rsms.me/inter/>
-  * 폰트풀(폰트포지) : <https://fontforge.org/en-US/>
-
-
+  * 폰트툴(폰트포지) : <https://fontforge.org/en-US/>
