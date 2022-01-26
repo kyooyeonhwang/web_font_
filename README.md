@@ -9,4 +9,3 @@
 ## 데모보기
 
 <img src="https://github.com/kyooyeonhwang/web_font_/blob/master/demo/capture_font.png?raw=true" width="40%" height="30%" alt="폰트 미리보기"></img>
-  * http://yeoni.freeasphost.net/webfont/SourceHanSerifKR_Inter.html
